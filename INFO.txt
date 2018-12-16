@@ -1,0 +1,11 @@
+Identitas Pembuat
+
+Nama = NUR KHOZIN
+Tgl Lahir = 23 Maret 1995
+Alamat = Ds. Sumberagung Kec.Dander Kab.Bojonegoro-Jawa Timur - Indonesia
+Email = nurkhozin95@gmail.com
+Status = Mahasiswa AKN Bojonegoro angkatan 2014
+
+Akses - SuperAdmin
+username = nurkhozin
+password = nurkhozin
